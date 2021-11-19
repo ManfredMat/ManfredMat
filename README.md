@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my final project at Herny bootcamp**
 
-- 💬 Ask me about **React.js !! or what ever you want :) **
+- 💬 Ask me about **React.js !! or what ever you want 😄 **
 
 - 📫 How to reach me **matmanfredi.99@gmail.com**
 
