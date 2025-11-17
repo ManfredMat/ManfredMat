@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Manfredi 🚀🚀</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Extrimian **
+- 🔭 I’m currently working on **THXU LABS **
 
 - 💬 Ask me about **React.js !! or what ever you want 😄 **
 
